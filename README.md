@@ -1,1 +1,3 @@
-## Vanilla Javascript Clock / To Do List
+## Vanilla JavaScript Clock / To Do List
+
+Working in Progress
